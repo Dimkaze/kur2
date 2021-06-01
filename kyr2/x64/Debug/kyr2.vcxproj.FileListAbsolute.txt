@@ -1,0 +1,8 @@
+C:\Users\lenovo\source\repos\kyr2\kyr2\x64\Debug\kyr2.Admin.resources
+C:\Users\lenovo\source\repos\kyr2\kyr2\x64\Debug\kyr2.Autorization.resources
+C:\Users\lenovo\source\repos\kyr2\kyr2\x64\Debug\kyr2.Creater.resources
+C:\Users\lenovo\source\repos\kyr2\kyr2\x64\Debug\kyr2.MyForm.resources
+C:\Users\lenovo\source\repos\kyr2\kyr2\x64\Debug\kyr2.MyForm2.resources
+C:\Users\lenovo\source\repos\kyr2\kyr2\x64\Debug\kyr2.vcxproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\kyr2\kyr2\x64\Debug\kyr2.vcxprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\kyr2\kyr2\x64\Debug\kyr2.Iron.resources

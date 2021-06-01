@@ -1,0 +1,40 @@
+﻿  Autorization.cpp
+C:\Users\lenovo\source\repos\kyr2\kyr2\MyForm2.h(203,1): warning C4965: неявная упаковка целого числа 0; используйте nullptr или явное приведение типов
+C:\Users\lenovo\source\repos\kyr2\kyr2\MyForm2.h(283,1): error C2664: "void System::Windows::Forms::DataGridViewCell::Value::set(System::Object ^)": невозможно преобразовать аргумент 1 из "CURLcode" в "System::Object ^"
+C:\Users\lenovo\source\repos\kyr2\kyr2\MyForm2.h(283,1): message : Оператор определенного пользователем преобразования недоступен, или
+C:\Users\lenovo\source\repos\kyr2\kyr2\MyForm2.h(283,47): message : Упаковка собственных типов перечисления не поддерживается
+C:\Users\lenovo\source\repos\kyr2\kyr2\MyForm2.h(283): message : см. объявление "System::Windows::Forms::DataGridViewCell::Value::set"
+C:\Users\lenovo\source\repos\kyr2\kyr2\Admin.h(209,6): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\lenovo\source\repos\kyr2\kyr2\Creater.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\lenovo\source\repos\kyr2\kyr2\Creater.h(205,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\lenovo\source\repos\kyr2\kyr2\Creater.h(227,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Creater.cpp
+C:\Users\lenovo\source\repos\kyr2\kyr2\Creater.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\lenovo\source\repos\kyr2\kyr2\MyForm2.h(203,1): warning C4965: неявная упаковка целого числа 0; используйте nullptr или явное приведение типов
+C:\Users\lenovo\source\repos\kyr2\kyr2\MyForm2.h(283,1): error C2664: "void System::Windows::Forms::DataGridViewCell::Value::set(System::Object ^)": невозможно преобразовать аргумент 1 из "CURLcode" в "System::Object ^"
+C:\Users\lenovo\source\repos\kyr2\kyr2\MyForm2.h(283,1): message : Оператор определенного пользователем преобразования недоступен, или
+C:\Users\lenovo\source\repos\kyr2\kyr2\MyForm2.h(283,47): message : Упаковка собственных типов перечисления не поддерживается
+C:\Users\lenovo\source\repos\kyr2\kyr2\MyForm2.h(283): message : см. объявление "System::Windows::Forms::DataGridViewCell::Value::set"
+C:\Users\lenovo\source\repos\kyr2\kyr2\Admin.h(209,6): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\lenovo\source\repos\kyr2\kyr2\Creater.h(205,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\lenovo\source\repos\kyr2\kyr2\Creater.h(227,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Iron.cpp
+C:\Users\lenovo\source\repos\kyr2\kyr2\MyForm2.h(203,1): warning C4965: неявная упаковка целого числа 0; используйте nullptr или явное приведение типов
+C:\Users\lenovo\source\repos\kyr2\kyr2\MyForm2.h(283,1): error C2664: "void System::Windows::Forms::DataGridViewCell::Value::set(System::Object ^)": невозможно преобразовать аргумент 1 из "CURLcode" в "System::Object ^"
+C:\Users\lenovo\source\repos\kyr2\kyr2\MyForm2.h(283,1): message : Оператор определенного пользователем преобразования недоступен, или
+C:\Users\lenovo\source\repos\kyr2\kyr2\MyForm2.h(283,47): message : Упаковка собственных типов перечисления не поддерживается
+C:\Users\lenovo\source\repos\kyr2\kyr2\MyForm2.h(283): message : см. объявление "System::Windows::Forms::DataGridViewCell::Value::set"
+  MyForm.cpp
+C:\Users\lenovo\source\repos\kyr2\kyr2\MyForm2.h(203,1): warning C4965: неявная упаковка целого числа 0; используйте nullptr или явное приведение типов
+C:\Users\lenovo\source\repos\kyr2\kyr2\MyForm2.h(283,1): error C2664: "void System::Windows::Forms::DataGridViewCell::Value::set(System::Object ^)": невозможно преобразовать аргумент 1 из "CURLcode" в "System::Object ^"
+C:\Users\lenovo\source\repos\kyr2\kyr2\MyForm2.h(283,1): message : Оператор определенного пользователем преобразования недоступен, или
+C:\Users\lenovo\source\repos\kyr2\kyr2\MyForm2.h(283,47): message : Упаковка собственных типов перечисления не поддерживается
+C:\Users\lenovo\source\repos\kyr2\kyr2\MyForm2.h(283): message : см. объявление "System::Windows::Forms::DataGridViewCell::Value::set"
+C:\Users\lenovo\source\repos\kyr2\kyr2\Admin.h(209,6): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  MyForm2.cpp
+C:\Users\lenovo\source\repos\kyr2\kyr2\MyForm2.h(203,1): warning C4965: неявная упаковка целого числа 0; используйте nullptr или явное приведение типов
+C:\Users\lenovo\source\repos\kyr2\kyr2\MyForm2.h(283,1): error C2664: "void System::Windows::Forms::DataGridViewCell::Value::set(System::Object ^)": невозможно преобразовать аргумент 1 из "CURLcode" в "System::Object ^"
+C:\Users\lenovo\source\repos\kyr2\kyr2\MyForm2.h(283,1): message : Оператор определенного пользователем преобразования недоступен, или
+C:\Users\lenovo\source\repos\kyr2\kyr2\MyForm2.h(283,47): message : Упаковка собственных типов перечисления не поддерживается
+C:\Users\lenovo\source\repos\kyr2\kyr2\MyForm2.h(283): message : см. объявление "System::Windows::Forms::DataGridViewCell::Value::set"
+  Создание кода...

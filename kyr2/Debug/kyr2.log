@@ -1,0 +1,40 @@
+﻿  Admin.cpp
+C:\Users\lenovo\source\repos\kyr2\kyr2\Admin.h(209,6): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Autorization.cpp
+C:\Users\lenovo\source\repos\kyr2\kyr2\MyForm2.h(180,1): warning C4965: неявная упаковка целого числа 0; используйте nullptr или явное приведение типов
+C:\Users\lenovo\source\repos\kyr2\kyr2\MyForm2.h(226,44): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\lenovo\source\repos\kyr2\kyr2\MyForm2.h(251,1): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\lenovo\source\repos\kyr2\kyr2\MyForm2.h(257,21): warning C4101: ex: неиспользованная локальная переменная
+C:\Users\lenovo\source\repos\kyr2\kyr2\MyForm2.h(276,42): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\lenovo\source\repos\kyr2\kyr2\MyForm2.h(305,20): warning C4101: ex: неиспользованная локальная переменная
+C:\Users\lenovo\source\repos\kyr2\kyr2\Admin.h(209,6): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\lenovo\source\repos\kyr2\kyr2\MyForm.h(305,41): warning C4101: e: неиспользованная локальная переменная
+C:\Users\lenovo\source\repos\kyr2\kyr2\MyForm.h(309,35): warning C4101: e: неиспользованная локальная переменная
+C:\Users\lenovo\source\repos\kyr2\kyr2\MyForm.h(314,37): warning C4101: e: неиспользованная локальная переменная
+C:\Users\lenovo\source\repos\kyr2\kyr2\Creater.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Creater.cpp
+C:\Users\lenovo\source\repos\kyr2\kyr2\Creater.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\lenovo\source\repos\kyr2\kyr2\MyForm2.h(180,1): warning C4965: неявная упаковка целого числа 0; используйте nullptr или явное приведение типов
+C:\Users\lenovo\source\repos\kyr2\kyr2\MyForm2.h(226,44): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\lenovo\source\repos\kyr2\kyr2\MyForm2.h(251,1): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\lenovo\source\repos\kyr2\kyr2\MyForm2.h(257,21): warning C4101: ex: неиспользованная локальная переменная
+C:\Users\lenovo\source\repos\kyr2\kyr2\MyForm2.h(276,42): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\lenovo\source\repos\kyr2\kyr2\MyForm2.h(305,20): warning C4101: ex: неиспользованная локальная переменная
+C:\Users\lenovo\source\repos\kyr2\kyr2\Admin.h(209,6): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\lenovo\source\repos\kyr2\kyr2\MyForm.h(305,41): warning C4101: e: неиспользованная локальная переменная
+C:\Users\lenovo\source\repos\kyr2\kyr2\MyForm.h(309,35): warning C4101: e: неиспользованная локальная переменная
+C:\Users\lenovo\source\repos\kyr2\kyr2\MyForm.h(314,37): warning C4101: e: неиспользованная локальная переменная
+  MyForm.cpp
+C:\Users\lenovo\source\repos\kyr2\kyr2\MyForm2.h(180,1): warning C4965: неявная упаковка целого числа 0; используйте nullptr или явное приведение типов
+C:\Users\lenovo\source\repos\kyr2\kyr2\MyForm2.h(226,44): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\lenovo\source\repos\kyr2\kyr2\MyForm2.h(251,1): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\lenovo\source\repos\kyr2\kyr2\MyForm2.h(257,21): warning C4101: ex: неиспользованная локальная переменная
+C:\Users\lenovo\source\repos\kyr2\kyr2\MyForm2.h(276,42): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\lenovo\source\repos\kyr2\kyr2\MyForm2.h(305,20): warning C4101: ex: неиспользованная локальная переменная
+C:\Users\lenovo\source\repos\kyr2\kyr2\Admin.h(209,6): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\lenovo\source\repos\kyr2\kyr2\MyForm.h(305,41): warning C4101: e: неиспользованная локальная переменная
+C:\Users\lenovo\source\repos\kyr2\kyr2\MyForm.h(309,35): warning C4101: e: неиспользованная локальная переменная
+C:\Users\lenovo\source\repos\kyr2\kyr2\MyForm.h(314,37): warning C4101: e: неиспользованная локальная переменная
+  Создание кода...
+  Admin.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  kyr2.vcxproj -> C:\Users\lenovo\source\repos\kyr2\Debug\kyr2.exe
